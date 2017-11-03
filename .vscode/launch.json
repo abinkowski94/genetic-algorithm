@@ -37,7 +37,7 @@
             "preLaunchTask": "compile-backend",
             "smartStep": true,
             "sourceMaps": true,
-            "protocol": "legacy"
+            "protocol": "inspector"
         },
         {
             "type": "node",
@@ -50,7 +50,7 @@
             "preLaunchTask": "compile-console",
             "smartStep": true,
             "sourceMaps": true,
-            "protocol": "legacy"
+            "protocol": "inspector"
         }
     ],
     "compounds": [
