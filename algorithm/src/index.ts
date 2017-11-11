@@ -1,1 +1,3 @@
-console.log("Test");
+import { Program } from "./program";
+
+Program.Main();
